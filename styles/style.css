@@ -1,0 +1,131 @@
+#image-pokemon {
+  text-align: center;
+  width: 265px;
+  height: 180px;
+}
+
+#image-pokemon img {
+  padding: 5px;
+  width: 200px;
+  height: 200px;
+}
+
+/* Ext Js Components */
+.ext-el-mask {
+  background-color: rgb(0, 0, 0) !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+/* .x-window-mc {
+  background-color: #1f283300 !important;
+}
+
+.x-window-tc, .x-window-tr, .x-window-tl, .x-window-mr, .x-window-ml, .x-window-bc, .x-window-br, .x-window-bl{
+  background: none;
+}
+*/
+
+/* Tipos */
+
+.lolca-grafico {
+  width: 300px;
+  height: 400px;
+}
+
+.fire {
+  color: red;
+}
+
+.grass {
+  color: green;
+}
+
+.water {
+  color: blue;
+}
+
+.electric {
+  color: yellow;
+}
+
+.rock {
+  color: brown;
+}
+
+.dark {
+  color: rgb(41, 41, 41);
+}
+
+.flying {
+  color: rgb(179, 179, 58);
+}
+
+.psychic {
+  color: rgb(241, 116, 136);
+}
+
+.bug {
+  color: rgb(39, 102, 54);
+}
+
+.normal {
+  color: rgb(126, 126, 126);
+}
+
+.ground {
+  color: rgb(109, 136, 22);
+}
+
+.fairy {
+  color: rgb(192, 25, 207);
+}
+
+.ice {
+  color: rgb(22, 113, 136);
+}
+
+.poison {
+  color: purple;
+}
+
+.steel {
+  color: rgb(121, 102, 165);
+}
+
+.ghost {
+  color: rgb(136, 41, 120);
+}
+
+.fighting {
+  color: rgb(187, 187, 187);
+}
+
+.dragon {
+  color: rgb(26, 158, 211);
+}
+
+.vazio {
+  color: rgb(182, 182, 182);
+}
+
+.local-canvas {
+  width: 740px;
+}
+
+.img-modal {
+  width: 100px;
+  height: 100px;
+}
+
+/* Background Color */
+.pokemon-modal{
+  width: 100%;
+  height: 100%;
+}
+
+.pokemon-modal img{
+  width: 20%;
+  height: 20%;
+}
+
